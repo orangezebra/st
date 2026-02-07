@@ -1,5 +1,5 @@
 # Running
-All three solutions contain runnable Javascript, just type "node <file>" at your terminal.
+All three solutions contain runnable Javascript, just type "node file.js" at your terminal.
 
 
 # Assumptions and Notes
